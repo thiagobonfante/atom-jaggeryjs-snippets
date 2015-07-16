@@ -224,6 +224,8 @@ ${1:response}.sendError(${1:errCode});$0
 ${1:response}.addCookie(${1:cookie});$0
 ```
 
+### Session
+
 #### `session⇥` HTTP session
 ```js
 session.$0
