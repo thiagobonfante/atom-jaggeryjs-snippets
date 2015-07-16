@@ -1,19 +1,19 @@
 {
   "name": "jaggeryjs-snippets",
   "main": "./lib/jaggeryjs-snippets",
-  "version": "1.0.0",
+  "version": "0.2.0",
   "description": "JaggeryJS Snippets for Atom",
-  "repository": "https://github.com/",
+  "repository": "https://github.com/thiagobonfante/atom-jaggeryjs-snippets",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
   },
   "activationCommands": {
     "atom-text-editor": [
-      "turbo-javascript:end-line",
-      "turbo-javascript:end-line-comma",
-      "turbo-javascript:end-new-line",
-      "turbo-javascript:wrap-block"
+      "jaggeryjs:end-line",
+      "jaggeryjs:end-line-comma",
+      "jaggeryjs:end-new-line",
+      "jaggeryjs:wrap-block"
     ]
   }
 }

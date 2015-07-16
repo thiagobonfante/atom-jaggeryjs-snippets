@@ -58,7 +58,7 @@
     ${1:db}.close();${0}
     """
   "MetadataStore":
-    prefix: "MetadataStore"
+    prefix: "me"
     body: """
     var ${1:dataStore} = new MetadataStore(${2:username}, ${3:password});${0}
     """

@@ -1,6 +1,6 @@
 ".source.js":
   "HTTP session":
-    prefix: "session"
+    prefix: "ses"
     body: """
     session.$0
     """

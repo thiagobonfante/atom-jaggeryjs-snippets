@@ -224,7 +224,9 @@ ${1:response}.sendError(${1:errCode});$0
 ${1:response}.addCookie(${1:cookie});$0
 ```
 
-#### `session⇥` HTTP session
+### Session
+
+#### `ses⇥` HTTP session
 ```js
 session.$0
 ```
@@ -744,7 +746,7 @@ ${1:db}.close();${0}
 
 ### MetadataStore
 
-#### `MetadataStore⇥` MetadataStore
+#### `me⇥` MetadataStore
 ```js
 var ${1:dataStore} = new MetadataStore(${2:username}, ${3:password});${0}
 ```
