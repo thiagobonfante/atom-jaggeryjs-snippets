@@ -1,0 +1,19 @@
+{
+  "name": "jaggeryjs-snippets",
+  "main": "./lib/jaggeryjs-snippets",
+  "version": "1.0.0",
+  "description": "JaggeryJS Snippets for Atom",
+  "repository": "https://github.com/",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "activationCommands": {
+    "atom-text-editor": [
+      "turbo-javascript:end-line",
+      "turbo-javascript:end-line-comma",
+      "turbo-javascript:end-new-line",
+      "turbo-javascript:wrap-block"
+    ]
+  }
+}

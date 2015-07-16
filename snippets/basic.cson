@@ -1,0 +1,13 @@
+".source.js":
+  "syntax":
+    prefix: "jag"
+    body: """
+    <%
+    ${0}
+    %>
+    """
+  "syntax out":
+    prefix: "out"
+    body: """
+    <%=${0}%>
+    """
