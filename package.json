@@ -10,10 +10,10 @@
   },
   "activationCommands": {
     "atom-text-editor": [
-      "turbo-javascript:end-line",
-      "turbo-javascript:end-line-comma",
-      "turbo-javascript:end-new-line",
-      "turbo-javascript:wrap-block"
+      "jaggeryjs:end-line",
+      "jaggeryjs:end-line-comma",
+      "jaggeryjs:end-new-line",
+      "jaggeryjs:wrap-block"
     ]
   }
 }
