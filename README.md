@@ -1,9 +1,12 @@
 # JaggeryJS-snippets
 A collection of command snippets for optimizing JaggeryJS development productivity.
 
+## Warning
+You don't need this package if you already have the [language-jaggery](https://atom.io/packages/language-jaggery) package.
+
 ## Dependency
 The JaggeryJS Snippets are made to JavaScript extension.
-You can change extension pressing (`CTRL`) + (`SHIFT`) + (`L`) to every opened file or installing the **file-types** package to associate **.jag** files to JavaScript scope. It can be found here: https://atom.io/packages/file-types
+You can change extension pressing (`CTRL`) + (`SHIFT`) + (`L`) to every opened file or installing the [file-types](https://atom.io/packages/file-types) package to associate **.jag** files to JavaScript scope.
 
 ## Snippets
 JaggeryJS Snippets aren't too short but it follow, in most of cases, the following pattern:
